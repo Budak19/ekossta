@@ -1,4 +1,4 @@
-const CACHE = 'ekossta-performance-cache-20261025';
+const CACHE = 'ekossta-mobile-login-fix-20261025';
 const SHELL = [
   './', './index.html', './styles.css', './material-ui.css',
   './ekossta-ui-refresh.css', './ekossta-terminal-ui.css',
